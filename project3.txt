@@ -2,4 +2,5 @@ Hi I a replacement of project2
 
 I just modified myself.
 
-slave slave
+Now I am Slave.
+
